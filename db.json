@@ -1,14 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "productId": "481075",
+  "productType": "DRESS",
+  "bulletText": {
+    "original": [
+      "Approx. model height is 5'10\" and she is wearing a size 14W ",
+      "Lined",
+      "Slightly fitted bodice with godet pleats at skirt",
+      "Hits just above ankle",
+      "Pullover style",
+      "V-neckline",
+       "Sleeveless",
+      "Jacket: open-front, sheer, three-quarter sleeves, beading at front, asymmetrical hem is longest at front  ",
+      "IMPORTANT NOTE: This item arrives with a return tag attached and instructions for removal. Once the tag is removed from the dress, this item cannot be returned.",
+     "Beading at front of skirt"
+    ],
+    "categorized": {
+      "size_and_fit": [
+        "Approx. model height is 5'10\" and she is wearing a size 14W ",
+        "Hits just above ankle",
+        "Jacket: open-front, sheer, three-quarter sleeves, beading at front, asymmetrical hem is longest at front  "
+      ],
+      "product_details": [
+        "Beading at front of skirt",
+        "IMPORTANT NOTE: This item arrives with a return tag attached and instructions for removal. Once the tag is removed from the dress, this item cannot be returned.",
+        "Lined ",
+        "Pullover style",
+        "Sleeveless",
+        "Slightly fitted bodice with godet pleats at skirt",
+        "V-neckline"
+      ],
+      "fabric_and_care": []
+    }
+  },
+  "page": {
+    "nextProductId": "481075",
+    "prevProductId": "481075",
+    "nextNotReviewedProductId": "481075",
+    "prevNotReviewedProductId": "481075"
   }
 }
