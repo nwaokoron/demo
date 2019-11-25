@@ -1,6 +1,5 @@
 {
-  "products": [
-             {
+   "product":   {
               "productId": "481075",
               "productType": "DRESS",
               "bulletText": {
@@ -41,5 +40,4 @@
                 "prevNotReviewedProductId": "481075"
               }
             }
-  ]
 }
